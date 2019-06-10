@@ -2,3 +2,6 @@ this is my first commit file
 
 I just made a change.
 I need to push this to the remote repo
+
+This is my second time making change
+I am learning git more
