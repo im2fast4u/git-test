@@ -2,3 +2,5 @@ this is my first commit file
 
 I just made a change.
 I need to push this to the remote repo
+
+This change is first made on a new branch - 'more-features'
