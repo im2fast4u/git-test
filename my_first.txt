@@ -3,8 +3,13 @@ this is my first commit file
 I just made a change.
 I need to push this to the remote repo
 
+<<<<<<< HEAD
 This change is first made on a new branch - 'more-features'
 
 Start this change on 6/12
 
 this is the second change on 6/12 10:30 am
+=======
+This is my second time making change
+I am learning git more
+>>>>>>> 643466d9fe27043c5d1f0567aff3be4c6e280b0d
